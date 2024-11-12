@@ -8,6 +8,11 @@ Welcome to the **Rust Weather App**, a simple command-line application that fetc
 - 🌡️ Display temperature, humidity, and weather conditions.
 - 🌎 Easy to extend with more features, such as forecasts or additional data.
 
+ ## 📸 Rust Weather App 
+ 
+![Demo of Rust Weather App ](image.png)  
+*Experience how it work!*
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
