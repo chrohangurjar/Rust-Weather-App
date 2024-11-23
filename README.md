@@ -1,4 +1,3 @@
-
 # 🌤️ Rust Weather App 🌦️
 
 Welcome to the **Rust Weather App**, a simple command-line application that fetches and displays the current weather for any city using the OpenWeatherMap API. ☁️🌍
@@ -74,5 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 For any questions or feedback, feel free to reach out!
-
+---
 Happy coding! 🎈
+---
