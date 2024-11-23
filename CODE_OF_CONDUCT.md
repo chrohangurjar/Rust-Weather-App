@@ -19,3 +19,6 @@ We are committed to fair and consistent enforcement of this code.
 ---
 Adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
 
+---
+Happy coding! 🎈
+---
